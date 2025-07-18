@@ -13,7 +13,7 @@ int main() {
     soma = num1 + num2;
     produto = num1 * num2;
     diferenca = num1 - num2;
-    quociente = num1 / num2; // divisão inteira
+    quociente = num1 / num2; 
     resto = num1 % num2;
 
     printf("Soma = %d\n", soma);
